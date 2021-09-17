@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/incubator-homeworks/static/css/main.9f42f6d4.chunk.css",
+    "main.js": "/incubator-homeworks/static/js/main.4699beaa.chunk.js",
+    "main.js.map": "/incubator-homeworks/static/js/main.4699beaa.chunk.js.map",
+    "runtime-main.js": "/incubator-homeworks/static/js/runtime-main.cf2725c8.js",
+    "runtime-main.js.map": "/incubator-homeworks/static/js/runtime-main.cf2725c8.js.map",
+    "static/js/2.d6e1b231.chunk.js": "/incubator-homeworks/static/js/2.d6e1b231.chunk.js",
+    "static/js/2.d6e1b231.chunk.js.map": "/incubator-homeworks/static/js/2.d6e1b231.chunk.js.map",
+    "index.html": "/incubator-homeworks/index.html",
+    "static/css/main.9f42f6d4.chunk.css.map": "/incubator-homeworks/static/css/main.9f42f6d4.chunk.css.map",
+    "static/js/2.d6e1b231.chunk.js.LICENSE.txt": "/incubator-homeworks/static/js/2.d6e1b231.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cf2725c8.js",
+    "static/js/2.d6e1b231.chunk.js",
+    "static/css/main.9f42f6d4.chunk.css",
+    "static/js/main.4699beaa.chunk.js"
+  ]
+}

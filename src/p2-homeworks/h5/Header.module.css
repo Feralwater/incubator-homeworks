@@ -1,0 +1,55 @@
+.NavbarItems {
+    display: flex;
+    position: relative;
+    height: 80px;
+    width: 300px;
+}
+
+.nav_menu {
+    display: flex;
+    list-style-type: none;
+    padding: 0;
+    position: absolute;
+    top: 20px;
+    left: -100%;
+    opacity: 1;
+    transition: all 0.5s ease;
+}
+
+.btn_close {
+    cursor: pointer;
+    padding: 5px;
+    color: #20b2d7;
+    font-size: 28px;
+}
+
+.NavbarItems:hover .nav_menu {
+    left: 0;
+}
+
+.nav_links {
+    display: block;
+    /*text-align: center;*/
+    /*margin: 2rem auto;*/
+    /*border-radius: 4px;*/
+    /*width: 80%;*/
+    text-decoration: none;
+    font-size: 1.5rem;
+    color: #151e31;
+    padding: 6px;
+    border: 1px solid #fff;
+    transition: all 0.3s ease-out;
+}
+
+.nav_links:hover {
+    color: #f37777;
+    transition: 250ms;
+}
+
+.active {
+    color: #78d71a;
+    left: 0;
+    opacity: 1;
+    transition: all 0.5s ease;
+    z-index: 1;
+}

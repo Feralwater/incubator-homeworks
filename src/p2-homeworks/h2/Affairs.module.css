@@ -1,0 +1,22 @@
+.wrapper {
+    display: flex;
+    width: 500px;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color: #c5d2c7;
+    padding: 10px;
+}
+
+.sort__buttons {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.sort__button {
+    width: 100px;
+    padding: 5px;
+    cursor: pointer;
+    background-color: green;
+    color: #ffffff;
+    font-size: 16px;
+}

@@ -1,0 +1,51 @@
+.inputField {
+    border: 2px solid green;
+    background-color: #2abd2a;
+    color: #151e31;
+    height: 30px;
+    font-size: 18px;
+    border-radius: 5px;
+    outline: none;
+}
+
+.inputField:focus {
+    border: 3px solid #20b2d7;
+}
+
+.btn {
+    margin-left: 20px;
+    color: #151e31;
+    cursor: pointer;
+    padding: 5px 15px;
+    display: inline-flex;
+    justify-content: center;
+    border: 2px solid green;
+    background-color: #2abd2a;
+    box-sizing: border-box;
+    border-radius: 5px;
+    font-size: 18px;
+}
+
+.btn:disabled {
+    background-color: #9d9c9c;
+    cursor: not-allowed;
+}
+
+.counter {
+    margin-left: 20px;
+    color: #151e31;
+    font-size: 18px;
+    border: 2px solid green;
+    border-radius: 100%;
+    padding: 5px;
+}
+
+.error {
+    border: 2px solid red;
+    background-color: #eab6b6;
+}
+
+.errorMessage {
+    color: red;
+    margin: 5px;
+}

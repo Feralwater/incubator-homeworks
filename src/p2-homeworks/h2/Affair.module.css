@@ -1,0 +1,39 @@
+.affair__wrapper {
+    display: grid;
+    grid-template-columns: repeat(3, 4fr);
+    font-size: 18px;
+    width: 100%;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.affair__name {
+    color: #2abd2a;
+    text-transform: capitalize;
+    font-weight: bold;
+}
+
+.middle {
+    color: #dc8711;
+}
+
+.high {
+    color: #fd0341;
+}
+
+.low {
+    color: #12c212;
+}
+
+.affair__button_wrapper {
+    justify-self: end;
+}
+
+.affair__button {
+    width: 100px;
+    padding: 5px;
+    cursor: pointer;
+    background-color: green;
+    color: #ffffff;
+    font-size: 16px;
+}

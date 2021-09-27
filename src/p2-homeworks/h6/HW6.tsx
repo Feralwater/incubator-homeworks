@@ -10,15 +10,14 @@ function HW6() {
         saveState<string>('editable-span-value', value)
     }
     const restore = () => {
-        // setValue()
+        const storageValue = restoreState<string>('editable-span-value', '')
+        setValue(storageValue)
     }
 
     return (
         <div>
             <hr/>
             homeworks 6
-
-            {/*should work (должно работать)*/}
             <div>
                 <SuperEditableSpan
                     value={value}

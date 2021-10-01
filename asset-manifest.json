@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/incubator-homeworks/static/css/main.bffdffd2.chunk.css",
-    "main.js": "/incubator-homeworks/static/js/main.3941ffd6.chunk.js",
-    "main.js.map": "/incubator-homeworks/static/js/main.3941ffd6.chunk.js.map",
+    "main.css": "/incubator-homeworks/static/css/main.4a2d17d0.chunk.css",
+    "main.js": "/incubator-homeworks/static/js/main.d812bf53.chunk.js",
+    "main.js.map": "/incubator-homeworks/static/js/main.d812bf53.chunk.js.map",
     "runtime-main.js": "/incubator-homeworks/static/js/runtime-main.cf2725c8.js",
     "runtime-main.js.map": "/incubator-homeworks/static/js/runtime-main.cf2725c8.js.map",
-    "static/js/2.95da60dc.chunk.js": "/incubator-homeworks/static/js/2.95da60dc.chunk.js",
-    "static/js/2.95da60dc.chunk.js.map": "/incubator-homeworks/static/js/2.95da60dc.chunk.js.map",
+    "static/js/2.39c9dffe.chunk.js": "/incubator-homeworks/static/js/2.39c9dffe.chunk.js",
+    "static/js/2.39c9dffe.chunk.js.map": "/incubator-homeworks/static/js/2.39c9dffe.chunk.js.map",
     "index.html": "/incubator-homeworks/index.html",
-    "static/css/main.bffdffd2.chunk.css.map": "/incubator-homeworks/static/css/main.bffdffd2.chunk.css.map",
-    "static/js/2.95da60dc.chunk.js.LICENSE.txt": "/incubator-homeworks/static/js/2.95da60dc.chunk.js.LICENSE.txt"
+    "static/css/main.4a2d17d0.chunk.css.map": "/incubator-homeworks/static/css/main.4a2d17d0.chunk.css.map",
+    "static/js/2.39c9dffe.chunk.js.LICENSE.txt": "/incubator-homeworks/static/js/2.39c9dffe.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.cf2725c8.js",
-    "static/js/2.95da60dc.chunk.js",
-    "static/css/main.bffdffd2.chunk.css",
-    "static/js/main.3941ffd6.chunk.js"
+    "static/js/2.39c9dffe.chunk.js",
+    "static/css/main.4a2d17d0.chunk.css",
+    "static/js/main.d812bf53.chunk.js"
   ]
 }
